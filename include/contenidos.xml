@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<cli:cliente xmlns:cli="http://es.wikipedia.org/wiki/Espacio_de_nombres_XML/cliente" xmlns:ped="http://es.wikipedia.org/wiki/Espacio_de_nombres_XML/pedido">   
+    <cli:numero_ID>1232654</cli:numero_ID>
+    <cli:nombre>Fulanito de Tal</cli:nombre>
+    <cli:telefono>99999999</cli:telefono>
+     <ped:numero_ID>6523213</ped:numero_ID>
+     <ped:articulo>Caja de herramientas</ped:articulo>
+     <ped:precio>187,90</ped:precio>
+     <almacen>4</almacen>
+</cli:cliente>

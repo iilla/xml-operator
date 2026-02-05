@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<traducciones>
+	<pagina num="1">
+		<key token="head_titol">
+			samplevalue!
+		<alcornoque attr="áÁàÀ@$%/()=?¿!|·#~½¬{[]}ª/éíóúèùìòÈÙÌÒÉÚÍÓÑÇçñ¨+*^^:_-;">works!</alcornoque>
+		<try><![CDATA[áÁàÀ@$%/()=?¿!|·#~½¬{[]}ª/éíóúèù<ìòÈÙÌÒÉÚÍÓÑÇçñ¨+*^^:_-;]]></try>
+		</key>
+	</pagina> 
+	
+	<pagina num="2">
+		<key part="head">
+			<es>titulo</es>
+			</key><key as="asd">
+			<![CDATA[val>]]>
+		</key>
+		<key part="content">
+		<![CDATA[<httt>samplecode&samp&quot;&quot;le''things</httt>]]>
+		</key>
+		<key part="content" other="special_content2">
+		dsfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+		</key>
+		<key>
+			<![CDATA[<httt>samplecode&samp&quot;&quot;le''things</httt>]]>
+		</key>
+	</pagina>
+	
+	<pagina num="3"> 		
+		<key part="content">
+			<ca>peu</ca>
+			<en>footer</en>
+			<es>pie</es>
+		</key>
+		<key part="zzz">
+			<es>traduccion</es>
+			<ca>traduccio</ca>
+			<en>translation</en>
+		</key>
+		<keyspecial part="head" party="arasi">
+			<en>title</en>
+			<es><![CDATA[titulo&]]></es>
+			<cat as="as" ass="ass">titol</cat>
+		</keyspecial>
+	</pagina>	
+	
+	<cdatacontent>
+		<![CDATA[<p>html with CDATA content</p>]]>
+	</cdatacontent>	
+</traducciones>
